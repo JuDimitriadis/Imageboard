@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>São Paulo - Street Art</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Berkshire+Swash&family=IBM+Plex+Serif:wght@300&family=Monoton&family=Montserrat+Alternates:wght@400;700&family=Quicksand:wght@300;500;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="/style.css">
+    </head>
+<body>
+    <div id="page">
+    <header>
+        <img src="/uploadIcon.png" @click="showForm">
+        <div id="pageTitle">
+            <h1>São Paulo</h1>
+            <h2>street art</h2>
+        </div>
+    </header>
+    <nav id="uploader" v-if="showUploadForm">
+        <form @submit="handleUploadReq">
+            <input type="text" name="username" placeholder="Username" v-model="username" @change="uploadData" required/>
+            <input type="text" name="title" placeholder="Title" v-model="title" @change="uploadData" required/>
+            <input type="text" name="description" placeholder="Description" v-model="description" @change="uploadData" required/>
+            <input type="file" accept="image/*" name="file" placeholder="Choose a File" @change="uploadData"/>
+            <button>Upload</button>
+            <img src="/closeIcon.png" @click="closeForm">
+        </form>
+    </nav>
+    <main id="imageBoard">
+        <div id=images>
+            <div id="imageGrid" v-for="image in images">
+                <img @click="updateSelectedPicId(image.id)" :src="image.url"/>
+                <h3>{{ image.title }}</h3>
+            </div>
+        </div>
+        <button id="moreBtn" v-if="showMoreBtn" @click="getMoreImages">More ... </button>
+    </main>
+    <selected-image v-if="selectedPicId" :id="selectedPicId"  @close="onClose"></selected-image>
+    <selected-coments v-if="selectedPicId" :id="selectedPicId"></selected-coments>
+</div>
+
+
+
+    <script src="/js/app.js" type="module" crossorigin="use-credentials"></script>
+</body>
+</html>
+
