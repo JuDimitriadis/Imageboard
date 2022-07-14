@@ -12,6 +12,9 @@ const s3 = new aws.S3({
     secretAccessKey: secrets.AWS_SECRET,
 });
 
+console.log('secrets.AWS_KEY,', secrets.AWS_KEY);
+console.log('secrets.AWS_SECRET', secrets.AWS_SECRET);
+
 const fs = require('fs');
 
 module.exports.upload = (req, res, next) => {
