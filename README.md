@@ -25,6 +25,18 @@ Click *[here](https://sp-streetart.herokuapp.com/)* to check the live page.
 
 ## Preview
 
-**Registration**
+**Loading Pictures**
+
+<img alt="Loading Pictures Preview" src="/public/imageboard-more.gif">
+
+**Pictures Modal**
+
+<img alt="Pictures Modal Preview" src="/public/imageboard-modal.gif">
+
+**Uploading Pictures**
+
+<img alt="Uploading Pictures Preview" src="/public/imageboard-upload.gif">
+
+
 
 
