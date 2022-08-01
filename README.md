@@ -17,6 +17,8 @@ Click *[here](https://sp-streetart.herokuapp.com/)* to check the live page.
 
 <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width=80 heigth=80> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node.js" src="https://simpleicons.org/icons/nodedotjs.svg" width=80 heigth=80> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Express.js" src="https://simpleicons.org/icons/express.svg" width=80 heigth=80> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Vue.js" src="https://simpleicons.org/icons/vuedotjs.svg" width=80 heigth=80> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="AWS S3" src="https://simpleicons.org/icons/amazons3.svg" width=80 heigth=80> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="PostgreSQL" src="https://simpleicons.org/icons/postgresql.svg" width=80 heigth=80>
 
+<div heigth=40>Java Script &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.JS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Express &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vue.JS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS S3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PostgreSQL</div>
+
 ## To do
 
 - Add login/register functionlities
