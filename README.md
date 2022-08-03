@@ -1,8 +1,8 @@
 # São Paulo Street Art
 ![São Paulo Street Art Logo](https://auspic.s3.eu-central-1.amazonaws.com/67Pz-u2UbIc4xnfPL8IG.png) 
 
-This is an image board page (instagram like), that was build to display pictures from Street Art across the city of São Paulo - Brazil. In this page users can upload pictures with a Title and description and add comments on posted pictures
-It was also the second complex project that I developed by myself during the Spiced Academy Bootcamp and the First project using Vue.
+This is an image board page (instagram like), that was build to display pictures from Street Art across the city of São Paulo - Brazil. In this page users can upload pictures with a Title and description and add comments on posted pictures.
+It was also the second complex project that I developed by myself during the Spiced Academy Bootcamp and the first project using Vue.
 
 Click *[here](https://sp-streetart.herokuapp.com/)* to check the live page.
 
