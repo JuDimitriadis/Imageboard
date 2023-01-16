@@ -4,8 +4,6 @@
 This is an image board page (instagram like), that was build to display pictures from Street Art across the city of São Paulo - Brazil. In this page users can upload pictures with a Title and description and add comments on posted pictures.
 It was also the second complex project that I developed by myself during the Spiced Academy Bootcamp and the first project using Vue.
 
-Click *[here](https://sp-streetart.herokuapp.com/)* to check the live page.
-
 ## Functionalities
 
 - Select and upload pictures with a Title and Description
@@ -13,11 +11,26 @@ Click *[here](https://sp-streetart.herokuapp.com/)* to check the live page.
 - Picture Modal - open a bigger version of selected picture and comments. Here users can also add comments.
 
 
-## Tecnology
+## Technology
 
-<img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width=80 heigth=80> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node.js" src="https://simpleicons.org/icons/nodedotjs.svg" width=80 heigth=80> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Express.js" src="https://simpleicons.org/icons/express.svg" width=80 heigth=80> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Vue.js" src="https://simpleicons.org/icons/vuedotjs.svg" width=80 heigth=80> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="AWS S3" src="https://simpleicons.org/icons/amazons3.svg" width=80 heigth=80> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="PostgreSQL" src="https://simpleicons.org/icons/postgresql.svg" width=80 heigth=80>
-
-<div heigth=40>Java Script &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.JS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Express &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vue.JS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS S3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PostgreSQL</div>
+<a title="JavaScript" target=”_blank” href="https://g.co/kgs/w74UK9">
+    <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width=80 height=80/>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a title="Node.js" target=”_blank” href="https://nodejs.org/en/">
+    <img alt="Node.js" src="https://simpleicons.org/icons/nodedotjs.svg" width=80 height=80> 
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a title="Express.js" target=”_blank” href="https://expressjs.com/">
+    <img alt="Express.js" src="https://simpleicons.org/icons/express.svg" width=80 height=80>
+</a>  &nbsp;&nbsp;&nbsp;&nbsp;
+<a title="Vue.js" target=”_blank” href="https://vuejs.org/">
+    <img alt="Vue.js" src="https://simpleicons.org/icons/vuedotjs.svg" width=80 height=80> 
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a title="AWS S3" target=”_blank” href="https://aws.amazon.com/s3/">
+    <img alt="AWS S3" src="https://simpleicons.org/icons/amazons3.svg" width=80 height=80> 
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a title="PostgreSQL" target=”_blank” href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" src="https://simpleicons.org/icons/postgresql.svg" width=80 height=80> 
+</a>
 
 ## To do
 
